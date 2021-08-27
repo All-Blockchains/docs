@@ -1,19 +1,17 @@
 ---
-title: GitHub.com
+title: GitHub
 redirect_from:
   - /articles/
   - /common-issues-and-questions/
   - /troubleshooting-common-issues/
 intro: 'Documentation, guides, and help topics for software developers, designers, and project managers. Covers using Git, pull requests, issues, wikis, gists, and everything you need to make the most of GitHub for development.'
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  fpt: '*'
+  ghes: '*'
+  ghae: '*'
 children:
-  - /setting-up-and-managing-your-github-user-account
-  - /setting-up-and-managing-your-github-profile
   - /authenticating-to-github
-  - /managing-subscriptions-and-notifications-on-github
+  - /copilot
   - /setting-up-and-managing-your-enterprise
   - /writing-on-github
   - /creating-cloning-and-archiving-repositories
